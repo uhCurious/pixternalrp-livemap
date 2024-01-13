@@ -2303,6 +2303,23 @@
 		]
 	},
 	{
+		"type": "Territories",
+		"title": "LSM",
+		"notes": "<edit this>",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -62.826, "lng": -39.862},
+			{"lat": -66.819, "lng": -39.862},
+			{"lat": -68.952, "lng": -36.874},
+			{"lat": -70.223, "lng": -34.281},
+			{"lat": -70.342, "lng": -32.963},
+			{"lat": -70.164, "lng": -28.085},
+			{"lat": -62.746, "lng": -27.645}
+		]
+	},
+	{
 		"type": "Neutral",
 		"title": "Alta Street Apartments",
 		"notes": "The Apartments is where new players wake up.",
