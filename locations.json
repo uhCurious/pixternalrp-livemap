@@ -2277,6 +2277,20 @@
 	},
 	{
 		"type": "Neutral",
+		"title": "Sanitation",
+		"notes": "Go here to exchange your hard-earned materials!",
+		"order": 0,
+		"strokecolor": "222222",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -72.483, "lng": -25.412},
+			{"lat": -72.486, "lng": -24.269},
+			{"lat": -72.280, "lng": -24.280},
+			{"lat": -72.270, "lng": -25.412}
+		]
+	},
+	{
+		"type": "Neutral",
 		"title": "Alta Street Apartments",
 		"notes": "The Apartments is where new players wake up.",
 		"order": 0,
@@ -2356,6 +2370,72 @@
 			{"lat": -74.115, "lng": -16.375}
 		],
 		"order": 0
+	},
+	{
+		"type": "Automotive",
+		"title": "PDM",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CAD8",
+		"latlngarray": [
+			{"lat": -68.077, "lng": -16.051},
+			{"lat": -68.147, "lng": -15.480},
+			{"lat": -68.488, "lng": -15.799},
+			{"lat": -68.496, "lng": -16.051},
+			{"lat": -68.391, "lng": -15.974},
+			{"lat": -68.285, "lng": -16.722},
+			{"lat": -68.069, "lng": -16.557},
+			{"lat": -68.126, "lng": -16.128}
+		]
+	},
+	{
+		"type": "Automotive",
+		"title": "Western Motorcycles",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CAD8",
+		"latlngarray": [
+			{"lat": -51.474, "lng": -17.381},
+			{"lat": -51.631, "lng": -16.788},
+			{"lat": -51.569, "lng": -16.700},
+			{"lat": -51.658, "lng": -16.349},
+			{"lat": -51.910, "lng": -16.513},
+			{"lat": -51.930, "lng": -16.711},
+			{"lat": -51.726, "lng": -17.337},
+			{"lat": -51.665, "lng": -17.282},
+			{"lat": -51.590, "lng": -17.524}
+		]
+	},
+
+	{
+		"type": "Automotive",
+		"title": "Benny's Repairs",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CAD8",
+		"latlngarray": [
+			{"lat": -70.408, "lng": -22.431},
+			{"lat": -70.423, "lng": -20.420},
+			{"lat": -70.704, "lng": -20.409},
+			{"lat": -70.697, "lng": -22.431}
+		]
+	},
+	{
+		"type": "Automotive",
+		"title": "Hayes Autos Repairs",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CAD8",
+		"latlngarray": [
+			{"lat": -60.115, "lng": -56.562},
+			{"lat": -60.360, "lng": -56.276},
+			{"lat": -59.884, "lng": -54.936},
+			{"lat": -59.724, "lng": -55.189}
+		]
 	},
 	{
 		"type": "Automotive",
@@ -2485,9 +2565,22 @@
 	},
 	{
 		"type": "Medical",
+		"title": "Pharmacy",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FF005A",
+		"fillcolor": "FF005A",
+		"latlngarray": [
+			{"lat": -71.520, "lng": -51.234},
+			{"lat": -71.627, "lng": -50.981},
+			{"lat": -71.689, "lng": -51.399},
+			{"lat": -71.558, "lng": -51.695}
+		]
+	},
+	{
+		"type": "Medical",
 		"title": "Central Los Santos Medical Center",
 		"notes": "",
-		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FF005A",
 		"fillcolor": "FF005A",
@@ -2516,7 +2609,6 @@
 		"type": "Medical",
 		"title": "El Burro Heights Fire Station",
 		"notes": "El Burro Heights Fire Station is an official office of EMS.",
-		"wiki_ling": "https://nopixel.fandom.com/wiki/Emergency_Medical_Services",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -2525,6 +2617,38 @@
 			{"lat": -71.735, "lng": 18.447},
 			{"lat": -72.255, "lng": 18.458},
 			{"lat": -72.282, "lng": 21.732}
+		]
+	},
+	{
+		"type": "Restaurants",
+		"title": "Bahama Mamas",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": -62.050, "lng": -55.047},
+			{"lat": -63.022, "lng": -53.652},
+			{"lat": -63.186, "lng": -54.102},
+			{"lat": -62.707, "lng": -54.816},
+			{"lat": -62.822, "lng": -55.266},
+			{"lat": -62.631, "lng": -55.640},
+			{"lat": -62.863, "lng": -56.464},
+			{"lat": -62.575, "lng": -56.958}
+		]
+	},
+	{
+		"type": "Restaurants",
+		"title": "Haven Nightclub",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": -71.786, "lng": -58.852},
+			{"lat": -71.929, "lng": -60.236},
+			{"lat": -72.493, "lng": -59.336},
+			{"lat": -72.340, "lng": -57.973}
 		]
 	},
 	{
@@ -2596,7 +2720,6 @@
 		"type": "Restaurants",
 		"title": "Up n Atom",
 		"notes": "",
-		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
