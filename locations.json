@@ -2255,57 +2255,13 @@
 		"strokecolor": "1560BD",
 		"fillcolor": "1560BD",
 		"latlngarray": [
-			{"lat": -67.048, "lng": -57.182},
-			{"lat": -67.828, "lng": -55.457},
-			{"lat": -68.418, "lng": -54.611},
-			{"lat": -68.530, "lng": -54.523},
-			{"lat": -68.514, "lng": -54.183},
-			{"lat": -68.262, "lng": -52.827},
-			{"lat": -67.996, "lng": -51.344},
-			{"lat": -68.529, "lng": -50.839},
-			{"lat": -68.473, "lng": -50.114},
-			{"lat": -68.131, "lng": -48.257},
-			{"lat": -69.042, "lng": -46.818},
-			{"lat": -69.961, "lng": -45.280},
-			{"lat": -70.178, "lng": -44.917},
-			{"lat": -69.825, "lng": -43.049},
-			{"lat": -69.350, "lng": -40.709},
-			{"lat": -70.096, "lng": -39.501},
-			{"lat": -70.430, "lng": -37.633},
-			{"lat": -70.767, "lng": -36.956},
-			{"lat": -71.516, "lng": -36.978},
-			{"lat": -72.147, "lng": -35.957},
-			{"lat": -72.147, "lng": -33.645},
-			{"lat": -71.174, "lng": -33.359},
-			{"lat": -70.853, "lng": -33.315},
-			{"lat": -70.526, "lng": -33.074},
-			{"lat": -70.569, "lng": -27.141},
-			{"lat": -71.379, "lng": -27.229},
-			{"lat": -71.650, "lng": -27.251},
-			{"lat": -72.562, "lng": -29.866},
-			{"lat": -72.283, "lng": -31.667},
-			{"lat": -72.243, "lng": -32.283},
-			{"lat": -72.243, "lng": -33.711},
-			{"lat": -72.147, "lng": -33.645},
-			{"lat": -72.147, "lng": -35.957},
-			{"lat": -72.328, "lng": -37.396},
-			{"lat": -72.142, "lng": -39.311},
-			{"lat": -73.662, "lng": -44.111},
-			{"lat": -73.631, "lng": -44.275},
-			{"lat": -75.479, "lng": -51.159},
-			{"lat": -75.727, "lng": -52.444},
-			{"lat": -75.197, "lng": -56.304},
-			{"lat": -73.727, "lng": -59.556},
-			{"lat": -71.963, "lng": -62.038},
-			{"lat": -70.089, "lng": -62.882},
-			{"lat": -68.712, "lng": -62.636},
-			{"lat": -66.738, "lng": -58.147}
+			
 		]
 	},
 	{
 		"type": "Territories",
 		"title": "LSM",
-		"notes": "<edit this>",
+		"notes": "Notes",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
@@ -2336,7 +2292,7 @@
 	{
 		"type": "Neutral",
 		"title": "Golf Course",
-		"notes": "",
+		"notes": "Fancy a game of golf? Head up there and try out /golf.",
 		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
@@ -2416,147 +2372,9 @@
 		]
 	},
 	{
-		"type": "Automotive",
-		"title": "Tuner Shop",
+		"type": "Legal",
+		"title": "Vespucci Beach PD",
 		"notes": "",
-		"order": 0,
-		"strokecolor": "00CAD8",
-		"fillcolor": "00CAD8",
-		"latlngarray": [
-			{"lat": -81.662, "lng": -11.634},
-			{"lat": -81.662, "lng": -10.125},
-			{"lat": -81.973, "lng": -10.125},
-			{"lat": -81.973, "lng": -11.634}
-		]
-	},
-		{
-		"type": "Heists",
-		"title": "Fleeca Bank",
-		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Fleeca_Bank",
-		"order": 0,
-		"strokecolor": "FFD700",
-		"fillcolor": "FFD700",
-		"latlngarray": [
-			{"lat": 16.073, "lng": 18.341},
-			{"lat": 16.073, "lng": 20.179},
-			{"lat": 14.999, "lng": 20.179},
-			{"lat": 14.999, "lng": 18.341}
-		]
-	},
-	{
-		"type": "Heists",
-		"title": "Fleeca Bank",
-		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Fleeca_Bank",
-		"order": 0,
-		"strokecolor": "FFD700",
-		"fillcolor": "FFD700",
-		"latlngarray": [
-			{"lat": -45.449, "lng": -101.214},
-			{"lat": -45.491, "lng": -100.449},
-			{"lat": -46.043, "lng": -100.531},
-			{"lat": -45.983, "lng": -101.288}
-		]
-	},
-	{
-		"type": "Heists",
-		"title": "Fleeca Bank",
-		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "FFD700",
-		"fillcolor": "FFD700",
-		"latlngarray": [
-			{"lat": -53.246, "lng": -26.209},
-			{"lat": -53.949, "lng": -22.806},
-			{"lat": -54.757, "lng": -23.103},
-			{"lat": -54.015, "lng": -26.608},
-			{"lat": -53.801, "lng": -26.399},
-			{"lat": -53.514, "lng": -26.245}
-		]
-	},
-	{
-		"type": "Heists",
-		"title": "Paleto Bank",
-		"notes": "Paleto Bank (Blaine County Savings Bank) is the second stage progression of bank robberies.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/City_Vault_(Pacific_Standard_Public_Deposit_Bank)",
-		"order": 0,
-		"strokecolor": "FFD700",
-		"fillcolor": "FFD700",
-		"latlngarray": [
-			{"lat": 77.001, "lng": -19.252},
-			{"lat": 77.257, "lng": -18.059},
-			{"lat": 77.015, "lng": -17.055},
-			{"lat": 76.758, "lng": -18.198}
-		]
-	},
-	{
-		"type": "Heists",
-		"title": "The City Vault",
-		"notes": "The City Vault (Pacific Standard Public Deposit Bank) is the third stage and fourth progression of bank robberies.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/City_Vault_(Pacific_Standard_Public_Deposit_Bank)",
-		"order": 0,
-		"strokecolor": "FFD700",
-		"fillcolor": "FFD700",
-		"latlngarray": [
-			{"lat": -47.911, "lng": -7.819},
-			{"lat": -48.286, "lng": -6.359},
-			{"lat": -49.684, "lng": -7.149},
-			{"lat": -49.335, "lng": -8.622}
-		],
-		"video": {
-			"yt_id": "WkJP51cKxEs",
-			"yt_user_display": "xQcOW",
-			"yt_user_link": "c/xqcow"
-		}
-	},
-	{
-		"type": "Legal",
-		"title": "AirX Flight School",
-		"notes": "AirX is owned by Jackie Snow. Knowing their passion, skill, and experience for flying, Bryce Miller, Tony Corleone, and Olivia Copper were the first to be recruited into the flight school. Bryce was hired as Flight Chief/Manager and Instructor of AirX. Tony and Copper were also hired as Flight Instructors. AirX Flight School operates out of Fort Zancudo military base.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/AirX_Flight_School",
-		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "0000FF",
-		"latlngarray": [
-			{"lat": 34.319, "lng": -95.567},
-			{"lat": 33.653, "lng": -91.306},
-			{"lat": 33.909, "lng": -87.636},
-			{"lat": 34.599, "lng": -84.209},
-			{"lat": 34.581, "lng": -80.715},
-			{"lat": 33.893, "lng": -75.128},
-			{"lat": 34.002, "lng": -71.766},
-			{"lat": 33.048, "lng": -67.708},
-			{"lat": 31.694, "lng": -64.807},
-			{"lat": 29.901, "lng": -62.719},
-			{"lat": 27.551, "lng": -62.434},
-			{"lat": 25.703, "lng": -63.248},
-			{"lat": 22.778, "lng": -62.721},
-			{"lat": 20.822, "lng": -62.237},
-			{"lat": 19.131, "lng": -63.049},
-			{"lat": 17.671, "lng": -64.786},
-			{"lat": 16.273, "lng": -67.895},
-			{"lat": 16.357, "lng": -72.245},
-			{"lat": 17.241, "lng": -76.222},
-			{"lat": 18.749, "lng": -79.194},
-			{"lat": 20.158, "lng": -81.719},
-			{"lat": 20.191, "lng": -84.017},
-			{"lat": 20.205, "lng": -86.971},
-			{"lat": 21.294, "lng": -88.531},
-			{"lat": 23.669, "lng": -89.454},
-			{"lat": 25.463, "lng": -91.959},
-			{"lat": 27.978, "lng": -96.566},
-			{"lat": 30.237, "lng": -99.083},
-			{"lat": 32.284, "lng": -99.325},
-			{"lat": 33.765, "lng": -98.402}
-		]
-	},
-	{
-		"type": "Legal",
-		"title": "Bob Smith PD",
-		"notes": "Bob Smith Police Department, formerly known as Vespucci Police Department was named after former Chief of Police Bob Smith. Who was the longest standing Chief in Los Santos, beloved by the people.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Bob_Smith_Police_Department",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
@@ -2672,9 +2490,6 @@
 			{"lat": -60.456, "lng": -10.523}
 		]
 	},
-
-
-
 	{
 		"type": "Medical",
 		"title": "Boe Jangles's House",
