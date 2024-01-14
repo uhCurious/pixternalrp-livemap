@@ -2250,12 +2250,32 @@
 	{
 		"type": "Territories",
 		"title": "Bondi Boys MC",
-		"notes": "The Bondi Boys Motor Club (BBMC) or Bondi Boys & Babes Motor Club is a criminal gang operating out of Vespucci, founded by Irwin Dundee.",
+		"notes": "The Bondi Boys Motor Club (BBMC) or Bondi Boys & Babes Motor Club is a criminal gang operating out of Vespucci, founded by Lawson Duncan.",
 		"order": 0,
 		"strokecolor": "1560BD",
 		"fillcolor": "1560BD",
 		"latlngarray": [
-			
+			{"lat": -75.299, "lng": -50.388},
+			{"lat": -74.556, "lng": -52.234},
+			{"lat": -73.691, "lng": -54.431},
+			{"lat": -72.197, "lng": -57.464},
+			{"lat": -70.142, "lng": -59.529},
+			{"lat": -68.722, "lng": -62.649},
+			{"lat": -66.794, "lng": -58.167},
+			{"lat": -66.773, "lng": -57.244},
+			{"lat": -65.438, "lng": -54.036},
+			{"lat": -66.459, "lng": -52.542},
+			{"lat": -66.300, "lng": -51.707},
+			{"lat": -67.574, "lng": -50.916},
+			{"lat": -68.386, "lng": -50.247},
+			{"lat": -69.009, "lng": -49.719},
+			{"lat": -69.721, "lng": -49.455},
+			{"lat": -70.557, "lng": -48.445},
+			{"lat": -71.416, "lng": -47.214},
+			{"lat": -72.278, "lng": -45.369},
+			{"lat": -72.708, "lng": -44.129},
+			{"lat": -73.070, "lng": -43.382},
+			{"lat": -73.337, "lng": -42.943}
 		]
 	},
 	{
