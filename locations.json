@@ -2393,6 +2393,20 @@
 	},
 	{
 		"type": "Legal",
+		"title": "Sandy Shores PD",
+		"notes": "The Sandy Shores Sheriff's Office, along  Los Santos Police Department, the San Andreas State Police and the San Andreas State Park Rangers, makes up the executive branch of Los Santos; together they ensure that the law is upheld and enforced.",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": 40.514, "lng": 38.751},
+			{"lat": 40.129, "lng": 39.136},
+			{"lat": 39.885, "lng": 38.554},
+			{"lat": 40.305, "lng": 38.202}
+		]
+	},
+	{
+		"type": "Legal",
 		"title": "Davis PD",
 		"notes": "",
 		"order": 0,
@@ -2423,7 +2437,7 @@
 	{
 		"type": "Legal",
 		"title": "Mission Row PD",
-		"notes": "The Los Santos Police Department, along with the Paleto Bay Sheriff's Office, the Senora Desert Sheriff's Office, the San Andreas State Police and the San Andreas State Park Rangers, makes up the executive branch of Los Santos; together they ensure that the law is upheld and enforced.",
+		"notes": "The Los Santos Police Department, along  Sandy Shores Sheriff's Office, the San Andreas State Police and the San Andreas State Park Rangers, makes up the executive branch of Los Santos; together they ensure that the law is upheld and enforced.",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
