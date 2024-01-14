@@ -2449,6 +2449,28 @@
 		]
 	},
 	{
+		"type": "Legal",
+		"title": "Bolingbroke Penitentiary",
+		"notes": "It is governed by the San Andreas State Prison Authority. The prison is located on the Los Santos County side of Route 68, just down the road from Harmony. The prison's shape is that of an octagon.
+		The perimeter of the prison is patrolled by the Los Santos County Sheriff and the Los Santos Police Department. There are armed San Andreas State Prison Authority officers standing near the entrances, making sure that no one attempts to break in or out.",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": 15.430, "lng": 38.994},
+			{"lat": 17.369, "lng": 36.621},
+			{"lat": 17.159, "lng": 32.490},
+			{"lat": 14.751, "lng": 29.985},
+			{"lat": 12.144, "lng": 29.019},
+			{"lat": 8.383, "lng": 29.326},
+			{"lat": 6.247, "lng": 32.490},
+			{"lat": 6.116, "lng": 33.281},
+			{"lat": 6.597, "lng": 36.313},
+			{"lat": 8.600, "lng": 38.467},
+			{"lat": 9.988, "lng": 39.038}
+		]
+	},
+	{
 		"type": "Medical",
 		"title": "Central Los Santos Medical Center",
 		"notes": "",
