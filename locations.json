@@ -2291,6 +2291,20 @@
 	},
 	{
 		"type": "Neutral",
+		"title": "Vehicle Rental",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "00DA7D",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -67.995, "lng": -11.649},
+			{"lat": -67.982, "lng": -12.055},
+			{"lat": -68.118, "lng": -12.055},
+			{"lat": -68.126, "lng": -11.627}
+		]
+	},
+	{
+		"type": "Neutral",
 		"title": "White Widow",
 		"notes": "",
 		"order": 0,

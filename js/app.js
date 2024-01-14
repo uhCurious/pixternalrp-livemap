@@ -131,6 +131,12 @@ $(function() {
 			type: 'General',
 			enabled: true,
 	   },
+	   {
+			name: 'Jobs',
+			icon: 'radar/radar_jobs.png',
+			type: 'General',
+			enabled: true,
+		},
 		{
 			name: 'Medical',
 			icon: 'radar/radar_hospital.png',
