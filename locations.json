@@ -2384,6 +2384,25 @@
 	},
 	{
 		"type": "Neutral",
+		"title": "Basketball Court",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "00DA7D",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -71.140, "lng": -17.080},
+			{"lat": -71.391, "lng": -17.102},
+			{"lat": -71.394, "lng": -16.015},
+			{"lat": -71.359, "lng": -15.553},
+			{"lat": -71.197, "lng": -15.520},
+			{"lat": -71.201, "lng": -15.861},
+			{"lat": -71.165, "lng": -15.883},
+			{"lat": -71.169, "lng": -16.223},
+			{"lat": -71.133, "lng": -16.245}
+		]
+	},
+	{
+		"type": "Neutral",
 		"title": "Mega Mall",
 		"notes": "A place to buy repair kits, radios, and body armor.",
 		"strokecolor": "00DA7D",
@@ -2696,7 +2715,7 @@
 	{
 		"type": "Restaurants",
 		"title": "Rooster Rest",
-		"notes": ".",
+		"notes": "",
 		"order": 0,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
