@@ -2500,6 +2500,20 @@
 	},
 	{
 		"type": "Medical",
+		"title": "Sandy Shores Medical Centre",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FF005A",
+		"fillcolor": "FF005A",
+		"latlngarray": [
+			{"lat": 40.289, "lng": 38.190},
+			{"lat": 39.861, "lng": 38.542},
+			{"lat": 39.429, "lng": 37.597},
+			{"lat": 39.827, "lng": 37.235}
+		]
+	},
+	{
+		"type": "Medical",
 		"title": "El Burro Heights Fire Station",
 		"notes": "El Burro Heights Fire Station is an official office of EMS.",
 		"wiki_ling": "https://nopixel.fandom.com/wiki/Emergency_Medical_Services",
@@ -2547,6 +2561,35 @@
 			{"lat": -67.506, "lng": -33.467},
 			{"lat": -67.216, "lng": -33.221},
 			{"lat": -66.985, "lng": -33.133}
+		]
+	},
+	{
+		"type": "Restaurants",
+		"title": "Bean Machine",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": -67.499, "lng": -11.511},
+			{"lat": -67.617, "lng": -10.435},
+			{"lat": -67.858, "lng": -10.654},
+			{"lat": -67.700, "lng": -11.665}
+		]
+	},
+	{
+		"type": "Restaurants",
+		"title": "Pizza This",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": -63.886, "lng": 8.264},
+			{"lat": -64.122, "lng": 8.572},
+			{"lat": -64.280, "lng": 8.583},
+			{"lat": -64.266, "lng": 7.990},
+			{"lat": -63.886, "lng": 7.990}
 		]
 	},
 	{
