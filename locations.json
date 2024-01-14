@@ -2252,8 +2252,8 @@
 		"title": "Bondi Boys MC",
 		"notes": "The Bondi Boys Motor Club (BBMC) or Bondi Boys & Babes Motor Club is a criminal gang operating out of Vespucci, founded by Lawson Duncan.",
 		"order": 0,
-		"strokecolor": "1560BD",
-		"fillcolor": "1560BD",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
 		"latlngarray": [
 			{"lat": -75.299, "lng": -50.388},
 			{"lat": -74.556, "lng": -52.234},
