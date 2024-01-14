@@ -2280,7 +2280,7 @@
 		"title": "Mine",
 		"notes": "Go down to the mines to farm some gems to sell to Jewelled Dragon or get metal parts to sell to Mechanic Shops!",
 		"order": 0,
-		"strokecolor": "222222",
+		"strokecolor": "00DA7D",
 		"fillcolor": "0080FF",
 		"latlngarray": [
 			{"lat": -1.760, "lng": -32.879},
@@ -2294,7 +2294,7 @@
 		"title": "White Widow",
 		"notes": "",
 		"order": 0,
-		"strokecolor": "222222",
+		"strokecolor": "00DA7D",
 		"fillcolor": "0080FF",
 		"latlngarray": [
 			{"lat": -57.473, "lng": -9.307},
@@ -2308,7 +2308,7 @@
 		"title": "Sanitation",
 		"notes": "Go here to exchange your hard-earned materials!",
 		"order": 0,
-		"strokecolor": "222222",
+		"strokecolor": "00DA7D",
 		"fillcolor": "0080FF",
 		"latlngarray": [
 			{"lat": -72.483, "lng": -25.412},
@@ -2322,7 +2322,7 @@
 		"title": "Alta Street Apartments",
 		"notes": "The Apartments is where new players wake up.",
 		"order": 0,
-		"strokecolor": "222222",
+		"strokecolor": "00DA7D",
 		"fillcolor": "0080FF",
 		"latlngarray": [
 			{"lat": -66.369, "lng": -23.239},
@@ -2336,7 +2336,7 @@
 		"title": "Golf Course",
 		"notes": "Fancy a game of golf? Head up there and try out /golf.",
 		"order": 0,
-		"strokecolor": "0080FF",
+		"strokecolor": "00DA7D",
 		"fillcolor": "0080FF",
 		"latlngarray": [
 			{"lat": -49.648, "lng": -55.084},
@@ -2398,6 +2398,20 @@
 			{"lat": -74.115, "lng": -16.375}
 		],
 		"order": 0
+	},
+	{
+		"type": "Automotive",
+		"title": "Tuner Shop",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CAD8",
+		"latlngarray": [
+			{"lat": -81.619, "lng": -11.409},
+			{"lat": -81.616, "lng": -10.332},
+			{"lat": -82.013, "lng": -10.223},
+			{"lat": -81.995, "lng": -11.453}
+		]
 	},
 	{
 		"type": "Automotive",
