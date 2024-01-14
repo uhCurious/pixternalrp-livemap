@@ -2277,6 +2277,34 @@
 	},
 	{
 		"type": "Neutral",
+		"title": "Mine",
+		"notes": "Go down to the mines to farm some gems to sell to Jewelled Dragon or get metal parts to sell to Mechanic Shops!",
+		"order": 0,
+		"strokecolor": "222222",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -1.760, "lng": -32.879},
+			{"lat": -1.519, "lng": -31.627},
+			{"lat": -2.441, "lng": -31.583},
+			{"lat": -2.968, "lng": -32.747}
+		]
+	},
+	{
+		"type": "Neutral",
+		"title": "White Widow",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "222222",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -57.473, "lng": -9.307},
+			{"lat": -57.236, "lng": -10.538},
+			{"lat": -56.679, "lng": -10.197},
+			{"lat": -56.950, "lng": -8.956}
+		]
+	},
+	{
+		"type": "Neutral",
 		"title": "Sanitation",
 		"notes": "Go here to exchange your hard-earned materials!",
 		"order": 0,
