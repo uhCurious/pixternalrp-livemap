@@ -2424,7 +2424,6 @@
 		"type": "Legal",
 		"title": "Mission Row PD",
 		"notes": "The Los Santos Police Department, along with the Paleto Bay Sheriff's Office, the Senora Desert Sheriff's Office, the San Andreas State Police and the San Andreas State Park Rangers, makes up the executive branch of Los Santos; together they ensure that the law is upheld and enforced.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Los_Santos_Police_Department",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
@@ -2437,57 +2436,16 @@
 	},
 	{
 		"type": "Legal",
-		"title": "PBSO",
-		"notes": "Paleto Bay Sheriff's Office headquarters ran by Kyle Pred.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Paleto_Bay_Sheriff%27s_Office",
-		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "0000FF",
-		"latlngarray": [
-			{"lat": 73.978, "lng": -29.654},
-			{"lat": 74.135, "lng": -27.689},
-			{"lat": 73.795, "lng": -27.251},
-			{"lat": 73.678, "lng": -27.119},
-			{"lat": 73.511, "lng": -27.129},
-			{"lat": 73.426, "lng": -27.196},
-			{"lat": 73.237, "lng": -27.404},
-			{"lat": 72.972, "lng": -28.085},
-			{"lat": 73.426, "lng": -29.919}
-		]
-	},
-	{
-		"type": "Legal",
-		"title": "SDSO",
-		"notes": "Run by Chief Toretti, the Senora Desert Sheriff's Office ensures crime is upheld and enforced.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Senora_Desert_Sheriff's_Office",
-		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "0000FF",
-		"latlngarray": [
-			{"lat": 40.127, "lng": 37.054},
-			{"lat": 40.912, "lng": 38.801},
-			{"lat": 40.061, "lng": 39.428},
-			{"lat": 39.274, "lng": 37.692}
-		]
-	},
-	{
-		"type": "Legal",
 		"title": "The Courthouse",
-		"notes": "Usually find randoms chilling here, but also has had some gunfights. Ran by Dennis LaBarrio",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Department_of_Justice",
+		"notes": "Where all legal proceedings such as courtcases are taken place.",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
 		"latlngarray": [
-			{"lat": -58.778, "lng": -9.293},
-			{"lat": -59.214, "lng": -7.029},
-			{"lat": -59.326, "lng": -6.546},
-			{"lat": -59.421, "lng": -6.315},
-			{"lat": -59.549, "lng": -6.216},
-			{"lat": -59.849, "lng": -6.183},
-			{"lat": -60.053, "lng": -6.282},
-			{"lat": -60.434, "lng": -6.557},
-			{"lat": -60.456, "lng": -10.523}
+			{"lat": -73.113, "lng": -5.265},
+			{"lat": -73.348, "lng": -4.232},
+			{"lat": -73.641, "lng": -5.111},
+			{"lat": -73.411, "lng": -6.144}
 		]
 	},
 	{
