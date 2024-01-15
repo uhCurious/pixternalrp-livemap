@@ -2249,6 +2249,33 @@
 	},
 	{
 		"type": "Territories",
+		"title": "Road Reapers Motorcycle Club",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": 41.104, "lng": -18.126},
+			{"lat": 41.468, "lng": -17.335},
+			{"lat": 41.468, "lng": -16.896},
+			{"lat": 42.188, "lng": -14.962},
+			{"lat": 42.675, "lng": -14.303},
+			{"lat": 42.868, "lng": -13.556},
+			{"lat": 42.900, "lng": -12.765},
+			{"lat": 42.448, "lng": -11.227},
+			{"lat": 42.286, "lng": -10.787},
+			{"lat": 40.405, "lng": -9.952},
+			{"lat": 39.224, "lng": -7.272},
+			{"lat": 38.195, "lng": -5.953},
+			{"lat": 36.836, "lng": -6.305},
+			{"lat": 35.774, "lng": -7.579},
+			{"lat": 34.697, "lng": -10.172},
+			{"lat": 34.733, "lng": -12.106},
+			{"lat": 39.156, "lng": -19.445}
+		]
+	},
+	{
+		"type": "Territories",
 		"title": "Bondi Boys MC",
 		"notes": "The Bondi Boys Motor Club (BBMC) or Bondi Boys & Babes Motor Club is a criminal gang operating out of Vespucci, founded by Lawson Duncan.",
 		"order": 0,
