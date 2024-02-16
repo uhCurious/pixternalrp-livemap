@@ -2380,8 +2380,8 @@
 		"title": "Vendetta",
 		"notes": "Vendetta is a street crew that likes to be in your face but hidden at the same time. Vendettas motto is 'Fuck around N Find Out'. Vendetta was founded by Bjorn Carbetta.",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "FFFF00",
+		"fillcolor": "FFFF00",
 		"latlngarray": [
 			{"lat": -70.681, "lng": -48.812},
 			{"lat": -71.244, "lng": -52.514},
